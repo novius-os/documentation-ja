@@ -116,4 +116,4 @@ Metadata configuration file
 App Desk
 --------
 
-App Desk は、アプリケーションデータを簡単にリストし、フィルタすることができます。:ref:`App Desk <en:appdesk_header>` を参照
+App Desk は、アプリケーションデータを簡単にリストし、フィルタすることができます。:ref:`App Desk <en:appdesk_general-informations>` を参照

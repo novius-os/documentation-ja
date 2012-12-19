@@ -244,4 +244,6 @@ texinfo_documents = [
 #texinfo_show_urls = 'footnote'
 
 
-intersphinx_mapping = {'en': ('https://novius-os.readthedocs.org/en/latest/', None)}
+intersphinx_mapping = {
+	'en': ('https://novius-os.readthedocs.org/en/latest/', None),
+	}
