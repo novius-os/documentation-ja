@@ -1,7 +1,7 @@
 アプリケーション
 =================
 
-アプリケーションは、Novius OS に機能を追加するもっとも簡単な方法です。いくつかのアプリケーションが利用できます。Blog, News stories, Slideshows そしてサンプルアプリケーションの `Monkeys <https://github.com/novius-os/noviusos_monkey>`_。
+アプリケーションは、Novius OS に機能を追加するもっとも簡単な方法です。いくつかのアプリケーションが利用できます。Blog, News stories, Slideshows そしてサンプルアプリケーションの `Monkeys <https://github.com/novius-os/noviusos_monkey>`_ 。
 
 アプリケーション管理システムは、アプリケーションを本当に簡単に追加し、拡張することができるように実装されています。
 
