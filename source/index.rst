@@ -1,20 +1,10 @@
-Novius OS - 日本語ドキュメント
-======================================================
+Novius OS - Japanese documentation (日本語)
+##########################################
 
-How-tos
--------
-
-.. toctree::
-	:maxdepth: 2
-
-	how_to/install
-	how_to/setup_front
-
-
-技術文書
---------------
+Summary
+=======
 
 .. toctree::
 	:maxdepth: 2
 
-	technical/applications
+	contribute/index
