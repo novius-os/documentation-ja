@@ -8,7 +8,7 @@
 
 このスタイルガイドは、ソフトウェア開発者、アプリケーション デザイナーや中核となる貢献者である翻訳者など、Novius OS のインターフェースのテキストを書く人たちのために作成されており、 **矛盾がなく読みやすいテキストをユーザーに提供する** ための、アプリケーション全体と言語に関する共通のルールを定めています。
 
-このスタイルガイドは、Aaron Walter　の `design personas <http://aarronwalter.com/design-personas/>`__ （ヒューマンタッチ）を参考にしています。Aaron Walter　のグループが作成した`Voice and Tone <http://voiceandtone.com>`__ ガイドからもヒントを得ています。
+このスタイルガイドは、Aaron Walter　の `design personas <http://aarronwalter.com/design-personas/>`__ （ヒューマンタッチ）を参考にしています。Aaron Walter　のグループが作成した `Voice and Tone <http://voiceandtone.com>`__ ガイドからもヒントを得ています。
 
 翻訳について
 ============
